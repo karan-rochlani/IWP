@@ -224,10 +224,10 @@ iframe {
     border-right: 1px dashed darkgray;
 }
 
-/* #tour-window {
+#tour-window {
     width: 100%;
     min-height: 500px;
-} */
+}
 
 .stack {
     padding: 50px 0;
